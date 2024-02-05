@@ -9,7 +9,7 @@
     "test": "cross-env NODE_ENV=test jest --verbose --runInBand",
     "lint": "eslint ."
   },
-  "author": "Kevin Nguyen",
+  "author": "Vania",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
